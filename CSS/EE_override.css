@@ -1,3 +1,13 @@
 :root {
-    --accent: #0085ff;
+    --accent: #1E96FC;
+    --bg: #0C0814;
+    --text: #32446B;
+}
+
+H1 {
+    color: #1E96FC;
+}
+
+.caption {
+    color: #423197;
 }
