@@ -1,6 +1,7 @@
 :root {
     --accent: #1E96FC;
     --bg: #0C0814;
+    --accent-bg: #0C0814;
     --text: #32446B;
 }
 
@@ -9,5 +10,5 @@ H1 {
 }
 
 .caption {
-    color: #423197;
+    color: #161b22;
 }
